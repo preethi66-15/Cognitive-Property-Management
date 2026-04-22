@@ -28,7 +28,7 @@ The application is built using Django and leverages Deep Learning to provide int
 
 **Frontend:** HTML, CSS, JavaScript
 
-**Database:** SQLite / PostgreSQL
+**Database:** MySQL
 
 **AI Component:** Deep Learning (Recommendation System)
 
