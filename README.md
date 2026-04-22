@@ -1,5 +1,5 @@
-**🧠 Cognitive Property Management**
-Smart homes, smarter decisions.
+**🧠 Cognitive Property Management** 
+    Smart homes, smarter decisions.
 
 **📌 Overview**
 Cognitive Property Management is a web-based platform that connects property owners and tenants through a role-based system. Owners can list and manage properties for sale or rent, while tenants can search, filter, and discover suitable homes.
