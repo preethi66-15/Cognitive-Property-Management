@@ -30,7 +30,7 @@ The application is built using Django and leverages Deep Learning to provide int
 
 **Database:** SQLite / PostgreSQL
 
-**AI Component:** Deep Learning (Recommendation System
+**AI Component:** Deep Learning (Recommendation System)
 
 **🧠 How Deep Learning is Used**
 
